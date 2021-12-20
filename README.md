@@ -1,1 +1,0 @@
-# shigin-python-lab
